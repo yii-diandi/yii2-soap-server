@@ -15,13 +15,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist mongosoft/yii2-soap-server "*"
+composer require --prefer-dist yii-diandi/yii2-soap-server "*"
 ```
 
 or add
 
 ```json
-"diandi/yii2-soap-server": "*"
+"yii-diandi/yii2-soap-server": "*"
 ```
 
 to the `require` section of your `composer.json` file.
